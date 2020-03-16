@@ -1,2 +1,2 @@
-# Autograder-Frontend
-Frontend of Autograder - DBMS
+# kappa-assets
+Web assets for kappa
