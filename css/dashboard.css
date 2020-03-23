@@ -8,3 +8,12 @@ html, body{
     background-repeat: no-repeat;
     background-size: cover;
 }
+
+mark {
+    background-color: orange;
+    color: black;
+}
+
+.my_left{float:left;}
+.myright{float:right;}
+.my_center{margin:0 auto;}
